@@ -1,4 +1,5 @@
 // Welcome to Cursor
+// Welcome to Cursor
 
 // 1. Try generating with command K on a new line. Ask for a new react component of an error popup.
 // 2. Then, select the outputted code and hit chat. Ask if there's a bug. Ask how to improve.
