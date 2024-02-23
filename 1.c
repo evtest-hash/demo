@@ -20,7 +20,7 @@ int main()
 	{
 		close(fd[0]);
 		printf("hello from parent process\n");
-		write(fd[1],"hello",6);
+		write(fd[1],"helloworld",10);
 		wait(NULL);
 		return 0;
 	}
